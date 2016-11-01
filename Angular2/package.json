@@ -27,6 +27,7 @@
     "json3": "^3.3.2",
     "ms": "^0.7.2",
     "portfinder": "^1.0.9",
+    "postcss-discard-comments": "^2.0.4",
     "querystringify": "0.0.4",
     "reflect-metadata": "^0.1.8",
     "requires-port": "^1.0.0",
