@@ -1,0 +1,17 @@
+{
+  "name": "react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "eduardo.baltazar"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/edubalf/EstudoReact",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
